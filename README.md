@@ -22,6 +22,9 @@ O usuário para se cadastrar deve inserir:
 
 Após inserir os dados, poderá ter acesso ao serviço de atendimento ao cliente
 
+## Documentação do projeto usando swagger
+http://localhost:8080/swagger-ui/index.html#/docs
+
 ## Imagens
 ![Diagrama de intidades](https://github.com/EzequielBispo/SPRINT1JAVA/assets/73908875/c4e01fab-edab-440f-877a-4be5be264f39>
 )
