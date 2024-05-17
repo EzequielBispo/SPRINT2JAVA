@@ -10,7 +10,7 @@ import lombok.Data;
 @Table(name = "T_USUARIO")
 public class Cliente {
 
-    @Id
+    @Id 
     int id_usuario;
 
     String ds_email;
